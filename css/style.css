@@ -1,0 +1,283 @@
+/* CSS Document */
+*{
+	margin: 0;
+	padding: 0;
+}
+#warpper{
+	width: 1920px;
+	height: 1450px;
+	margin: 0 auto;
+	background:#222222;
+	background-image: url(../img/delirium-bg.jpg);
+	background-size: cover;
+}
+.main-index{
+	width: 1010px;
+	height: 1450px;
+	margin: auto;
+	background: #161616;
+}
+.header{
+	width: 1010px;
+	height: 215px;
+	background-image: url(../img/header.png);
+	float: left;
+}
+.top-bar{
+	width: 670px;
+	height: 30px;
+	float: left;
+}
+.top-bar ul{
+	list-style: none;
+}
+.top-bar ul li{
+	float: left;
+	margin-left: 15px;
+	margin-top: 7px;
+}
+.top-bar ul li a{
+	color: #E9F164;
+}
+.top-bar ul li a:hover{
+	color: #EBAF2D;
+	font-size: 20px;
+}
+.flag{
+	width: 340px;
+	height: 30px;
+	float: right;
+}
+.box{
+	width: 20px;
+	height: 15px;
+	background-image: url(../img/GB.png);
+	float: left;
+	margin-left: 10px;
+	margin-top: 7px;
+}
+.menu{
+	width: 1010px;
+	height: 35px;
+}
+.choose{
+	width: 1010px;
+	height: 42px;
+	float: left;
+	margin-top: 142px
+}
+.choose-1{
+	width: 360px;
+	height: 40px;
+	float: left;
+	background-image: url(../img/nav-button-sprite.png);
+	margin-left: 85px;
+}
+.choose-2{
+	width: 360px;
+	height: 40px;
+	float: right;
+	background-image: url(../img/nav-button-sprite.png);
+	margin-right: 85px;
+}
+.bander{
+	width: 1010px;
+	height: 1100px;
+	float: left;
+}
+.present{
+	width: 920px;
+	height: 365px;
+	margin: auto;
+}
+.even{
+	width: 920px;
+	height: 115px;
+	background-image: url(../img/ENHarvestSupporterHeader.jpg);
+}
+.time{
+	width: 920px;
+	height: 250px;
+	background-image: url(../img/timer.jpg)
+}
+.content{
+	width: 920px;
+	height: 720px;
+	margin: auto;
+	background: #A03FC5
+}
+.left{
+	width: 630px;
+	height: 720px;
+	float: left;
+	background: #161616;
+}
+.picture{
+	width: 610px;
+	height: 235px;
+	background-image: url(../img/WarcriesHarvestFullNews.jpg);
+}
+.information{
+	width: 610px;
+	height: 485px;
+	background: #161616;
+}
+.box-a{
+	width: 610px;
+	height: 150px;
+	background: #413D3D;
+	margin-bottom: 10px;
+	margin-top: 5px;
+	font-size: 20px;
+}
+.box-a p b{
+	color: #C0AA16;
+}
+.box-a p{
+	color: #E9F164;
+}
+.right{
+	width: 290px;
+	height: 720px;
+	background: #161616;
+	float: right
+}
+.fox{
+	width: 291px;
+	height: 240px;
+	background-image: url(../img/deal-background-large.png);
+}
+.dragon{
+	width: 291px;
+	height: 240px;
+	background-image: url(../img/deal-background-large.png);
+}
+.toad{
+	width: 291px;
+	height: 240px;
+	background-image: url(../img/deal-background-large.png);
+}
+.sell{
+	width: 255px;
+	height: 85px;
+	float: left;
+	margin-left: 10px;
+}
+.sell p{
+	text-align: center;
+	font-size: 28px;
+	margin-top: 10px;
+	margin-left: 10px;
+	color: #E9F164;
+}
+.infor{
+	width: 135px;
+	height: 156px;
+	float: left;
+}
+.infor p{
+	color: #C0AA16;
+	margin-left: 15px;
+	margin-top: 10px;
+}
+.item{
+	width: 156px;
+	height: 156px;
+	float: right;
+	background-image: url(../img/firefox.png);
+}
+.sell-a{
+	width: 255px;
+	height: 85px;
+	float: left;
+}
+.sell-a p{
+	text-align: center;
+	font-size: 28px;
+	margin-left: 25px;
+	margin-top: 10px;
+	color: #E9F164;
+}
+.infor-a{
+	width: 135px;
+	height: 154px;
+	float: left;
+}
+.infor-a p{
+	color: #C0AA16;
+	margin-left: 15px;
+	margin-top: 10px;
+}
+.item-a{
+	width: 156px;
+	height: 156px;
+	float: right;
+	background-image: url(../img/BlackandWhiteDragonPet.png)
+}
+.sell-b{
+	width: 255px;
+	height: 85px;
+	float: left;
+}
+.sell-b p{
+	text-align: center;
+	font-size: 28px;
+	margin-left: 25px;
+	margin-top: 10px;
+	color: #E9F164;
+}
+.infor-b{
+	width: 135px;
+	height: 154px;
+	float: left;
+}
+.infor-b p{
+	color: #C0AA16;
+	margin-left: 15px;
+	margin-top: 10px;
+}
+.item-b{
+	width: 156px;
+	height: 156px;
+	float: right;
+	background-image: url(../img/MadcapHypnoticToad.png)
+}
+.footer{
+	width: 960px;
+	height: 135px;
+	background-image: url(../img/footer.png);
+	float: left;
+	margin-left: 20px;
+}
+.list-a{
+	width: 350px;
+	height: 30px;
+	float: left;
+	margin-top: 50px;
+	margin-left: 20px;
+}
+.list-a ul{
+	list-style: none;
+}
+.list-a ul li{
+	float: left;
+	margin-left: 35px;
+	font-size: 25px;
+	color: #E9F164;
+}
+.list-b{
+	width: 350px;
+	height: 30px;
+	float: right;
+	margin-top: 50px;
+	margin-right: 20px;
+}
+.list-b ul{
+	list-style: none;
+}
+.list-b ul li{
+	float: left;
+	margin-left: 35px;
+	font-size: 25px;
+	color: #E9F164;
+}
